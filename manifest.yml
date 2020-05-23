@@ -1,0 +1,4 @@
+---
+path: ./ProductResponseEntity-2.1.6.RELEASE.jar
+applications:
+- name: hello-service
