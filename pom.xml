@@ -5,10 +5,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.citi.product</groupId>
-	<artifactId>ProductResponseEntity</artifactId>
+	<artifactId>product-pcf-app</artifactId>
 	<packaging>jar</packaging>
-	<name>ProductResponseEntity</name>
-	<description>Demo project for checking Response Entity</description>
+	<name>product-pcf-app</name>
+	<description>Spring boot project for product-pcf-app</description>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
