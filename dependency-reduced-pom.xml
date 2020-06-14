@@ -8,9 +8,9 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.citi.product</groupId>
-  <artifactId>ProductResponseEntity</artifactId>
-  <name>ProductResponseEntity</name>
-  <description>Demo project for checking Response Entity</description>
+  <artifactId>product-pcf-app</artifactId>
+  <name>product-pcf-app</name>
+  <description>Spring boot project for product-pcf-app</description>
   <build>
     <plugins>
       <plugin>
@@ -108,8 +108,8 @@
     </dependency>
   </dependencies>
   <properties>
-    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <java.version>8</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
   </properties>
 </project>
